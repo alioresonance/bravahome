@@ -67,7 +67,7 @@ Note: The quickstart guide has only been tested for Mac OS X.  For Windows, the 
     - Skip profiles and click Next
     - Verify artifact selected com.bravahome.interview:test:1.0.0-SNAPSHOT and click Next
     - Verify using JDK 1.8 and click Next ...(if this first time setup you may have to click + to add or ... to point to your local JDK home path)
-    - Verify project name bravahome-billing-automation, path and click Finish
+    - Verify project name interviewtest, path and click Finish
     
     Click Ignore if Unregistered VCS root detected notification pops up.
     
