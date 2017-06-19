@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" parallel="methods" thread-count="4">
+    <test verbose="2" name="Interview Tests" annotations="JDK"  group-by-instances="true">
+        <classes>
+            <class name="bravahome.test.interview.randomnumbergenerator.RandomNumberGeneratorWebsiteTest" />
+        </classes>
+    </test>
+</suite>
